@@ -2,9 +2,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ispooya&label=Profile%20views&color=0e75b6&style=flat&margin-w=15" alt="ispooya" /> </p>
 
-<p align="center"> 
+<!--p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=ispooya&margin-w=7" alt="ispooya" />
-</p>
+</p-->
 
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ispooya&show_icons=true&locale=en" alt="ispooya" /></p-->
 
