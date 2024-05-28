@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooya</h1>
-
+<h1 align="center"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/96780618?v=4&h=35&w=35&fit=cover&mask=circle&maxage=7d"> Hi  I'm Pooya</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ispooya&label=Profile%20views&color=0e75b6&style=flat&margin-w=15" alt="ispooya" /> </p>
 
 <!--p align="center"> 
